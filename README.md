@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashenafi Habte Atlaw</h1>
 
 <h3 align="center">
-Computer Science Student | Full Stack Developer | Machine Learning Enthusiast
-</h3>
+Computer Science Student | frontend Developer 
 
 ---
 
